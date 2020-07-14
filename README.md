@@ -1,0 +1,1 @@
+# nextjs-typescript-apollo-auth-boilerplate
